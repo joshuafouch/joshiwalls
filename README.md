@@ -1,5 +1,7 @@
-# wallpaper-dotfiles
+# joshua's wallpapers
 
-My favorite wallpapers to use. They are pretty cool, and some use the Nord colorscheme.
+![cool bruh picture](./backgrounds/.config/backgrounds/)
+
+My favorite wallpapers to use. They are pretty cool. Found from web surfing.
 
 Feel free to grab anything you like.
